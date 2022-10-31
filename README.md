@@ -1,5 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/f9c2eec0-eedd-4da8-a722-fce2c6a7032a.svg?style=social)](https://wakatime.com/@f9c2eec0-eedd-4da8-a722-fce2c6a7032a)
-![GitHub User's stars](https://img.shields.io/github/stars/mauriziocarella?style=social)
+[![GitHub User's stars](https://img.shields.io/github/stars/mauriziocarella?style=social)](https://github.com/mauriziocarella)
 
 ### Hi there 👋
 
