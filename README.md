@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm a 5 years experienced full stack developer skilled in React, NodeJS, Laravel, PHP, MySQL, MongoDB. I am actually full-time employed as project manager/web developer at [Meway SRL](https://meway.it/).
+I'm a 8 years experienced full stack developer skilled in React, NodeJS, Laravel, PHP, MySQL, MongoDB.
 
 Find out some projects I have developed and all my contact information on my website [mauriziocarella.it](https://mauriziocarella.it)
 
